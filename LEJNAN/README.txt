@@ -1,13 +1,13 @@
 
 TITLE:   
-Neat - 100% Fully Responsive Free HTML5 Bootstrap Template
+Neat - 100% Fully Responsive HTML5 Bootstrap
 
 AUTHOR:
-DESIGNED & DEVELOPED by FreeHTML5.co
+Djeff Laachi & Tariq A
 
-Website: http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
+Website: http://freeance.ie
+Twitter: http://twitter.com/freeance.ie
+Facebook: http://facebook.com/freeance.ie
 
 
 CREDITS:
